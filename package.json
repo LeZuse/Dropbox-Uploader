@@ -5,6 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "dropbox-uploader": "./dropbox_uploader.sh",
+    "dropbox-shell": "./dropShell.sh"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/LeZuse/Dropbox-Uploader.git"
