@@ -1,6 +1,7 @@
 {
   "name": "bash-dropbox-uploader",
   "version": "0.14.0",
+  "private": true,
   "description": "NPM packaged https://github.com/andreafabrizi/Dropbox-Uploader",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
